@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyViewPagerDome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="我是菜单一">onefragment</string>
+    <string name="我是菜单二">twofragment</string>
+    <string name="我是菜单三">threefragment</string>
+
+</resources>
